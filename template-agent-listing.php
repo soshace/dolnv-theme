@@ -126,7 +126,7 @@ get_header();
                                                         if(!empty($vkontakte_url)){
                                                             ?>
                                                             <li class="vkontakte">
-                                                                <a target="_blank" href="<?php echo $vkontakte_url; ?>"><i class="fa fa-vkontakte fa-lg"></i></a>
+                                                                <a target="_blank" href="<?php echo $vkontakte_url; ?>"><i class="fa fa-vk fa-lg"></i></a>
                                                             </li>
                                                         <?php
                                                         }

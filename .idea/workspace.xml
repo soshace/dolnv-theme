@@ -28,78 +28,90 @@
       <file leaf-file-name="social-nav.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template-parts/social-nav.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.76363635" vertical-offset="43" max-vertical-offset="1819">
-              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+            <state vertical-scroll-proportion="-4.072727" vertical-offset="337" max-vertical-offset="1819">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="property-map.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="property-map.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/property-details/property-map.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32923076" vertical-offset="1576" max-vertical-offset="1989">
-              <caret line="99" column="63" selection-start-line="99" selection-start-column="63" selection-end-line="99" selection-end-column="63" />
+            <state vertical-scroll-proportion="-16.26923" vertical-offset="1175" max-vertical-offset="2006">
+              <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="single-agent.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/single-agent.php">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.923077" vertical-offset="1516" max-vertical-offset="3366">
-              <caret line="112" column="141" selection-start-line="112" selection-start-column="141" selection-end-line="112" selection-end-column="141" />
+            <state vertical-scroll-proportion="-3.1960785" vertical-offset="34806" max-vertical-offset="45458">
+              <caret line="2057" column="4" selection-start-line="2057" selection-start-column="4" selection-end-line="2057" selection-end-column="4" />
+              <folding>
+                <marker date="1432409381145" expanded="true" signature="89433:89544" placeholder="SELECT * FRO..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/custom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.68" vertical-offset="18386" max-vertical-offset="18989">
+              <caret line="1109" column="7" selection-start-line="1109" selection-start-column="7" selection-end-line="1109" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wpml-config.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wpml-config.xml">
+      <file leaf-file-name="property-add-to-favorites.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/property-details/property-add-to-favorites.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="674" max-vertical-offset="2210">
-              <caret line="45" column="61" selection-start-line="45" selection-start-column="61" selection-end-line="45" selection-end-column="61" />
+            <state vertical-scroll-proportion="-2.6666667" vertical-offset="0" max-vertical-offset="697">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="font-awesome.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/font-awesome.min.css">
+      <file leaf-file-name="property-contents.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/property-details/property-contents.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
-              <caret line="3" column="7735" selection-start-line="3" selection-start-column="7735" selection-end-line="3" selection-end-column="7735" />
+            <state vertical-scroll-proportion="0.71319795" vertical-offset="552" max-vertical-offset="1649">
+              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="edit-profile-handler.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/framework/functions/edit-profile-handler.php">
+      <file leaf-file-name="modal-login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template-parts/modal-login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.076923" vertical-offset="3072" max-vertical-offset="4607">
-              <caret line="190" column="32" selection-start-line="190" selection-start-column="32" selection-end-line="190" selection-end-column="32" />
+            <state vertical-scroll-proportion="-0.33333334" vertical-offset="0" max-vertical-offset="1734">
+              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config-meta-boxes.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/framework/meta-box/config-meta-boxes.php">
+      <file leaf-file-name="template-property-grid-listing.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template-property-grid-listing.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.038462" vertical-offset="6530" max-vertical-offset="8483">
-              <caret line="403" column="57" selection-start-line="403" selection-start-column="57" selection-end-line="403" selection-end-column="57" />
+            <state vertical-scroll-proportion="-7.0" vertical-offset="0" max-vertical-offset="799">
+              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="content.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/framework/one-click-demo-install/demo-files/content.xml">
+      <file leaf-file-name="grid-listing-container.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template-parts/grid-listing-container.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="5376" max-vertical-offset="94894">
-              <caret line="326" column="46" selection-start-line="326" selection-start-column="46" selection-end-line="326" selection-end-column="46" />
+            <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="1292">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -108,18 +120,8 @@
       <file leaf-file-name="template-agent-listing.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template-agent-listing.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.5769231" vertical-offset="1752" max-vertical-offset="3281">
-              <caret line="107" column="49" selection-start-line="107" selection-start-column="49" selection-end-line="107" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="theme-settings.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/framework/admin/theme-settings.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.5769231" vertical-offset="2458" max-vertical-offset="25721">
-              <caret line="147" column="42" selection-start-line="147" selection-start-column="42" selection-end-line="147" selection-end-column="42" />
+            <state vertical-scroll-proportion="-6.1923075" vertical-offset="2015" max-vertical-offset="3281">
+              <caret line="128" column="138" selection-start-line="128" selection-start-column="138" selection-end-line="128" selection-end-column="138" />
               <folding />
             </state>
           </provider>
@@ -136,13 +138,18 @@
         <option value="$PROJECT_DIR$/template-common.php" />
         <option value="$PROJECT_DIR$/framework/admin/theme-settings.php" />
         <option value="$PROJECT_DIR$/functions.php" />
-        <option value="$PROJECT_DIR$/template-parts/social-nav.php" />
-        <option value="$PROJECT_DIR$/template-agent-listing.php" />
-        <option value="$PROJECT_DIR$/single-agent.php" />
         <option value="$PROJECT_DIR$/wpml-config.xml" />
         <option value="$PROJECT_DIR$/framework/one-click-demo-install/demo-files/content.xml" />
         <option value="$PROJECT_DIR$/framework/functions/edit-profile-handler.php" />
         <option value="$PROJECT_DIR$/framework/meta-box/config-meta-boxes.php" />
+        <option value="$PROJECT_DIR$/single-agent.php" />
+        <option value="$PROJECT_DIR$/template-agent-listing.php" />
+        <option value="$PROJECT_DIR$/template-parts/social-nav.php" />
+        <option value="$PROJECT_DIR$/property-details/property-map.php" />
+        <option value="$PROJECT_DIR$/template-parts/grid-listing-container.php" />
+        <option value="$PROJECT_DIR$/property-details/property-add-to-favorites.php" />
+        <option value="$PROJECT_DIR$/js/custom.js" />
+        <option value="$PROJECT_DIR$/property-details/property-contents.php" />
       </list>
     </option>
   </component>
@@ -207,7 +214,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="template-parts" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -224,6 +231,8 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJavaScript 1.5" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -249,6 +258,9 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b4d6c0db-6868-4ffb-8bd6-cff17cafb7f4" name="Default" comment="" />
@@ -260,12 +272,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5634744" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.47327393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20042644" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -439,32 +451,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.0181818" vertical-offset="42640" max-vertical-offset="45458">
-          <caret line="2518" column="41" selection-start-line="2518" selection-start-column="41" selection-end-line="2518" selection-end-column="41" />
-          <folding>
-            <marker date="1432409381145" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template-agent-listing.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5769231" vertical-offset="1752" max-vertical-offset="3281">
-          <caret line="107" column="49" selection-start-line="107" selection-start-column="49" selection-end-line="107" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/single-agent.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.923077" vertical-offset="1516" max-vertical-offset="3366">
-          <caret line="112" column="141" selection-start-line="112" selection-start-column="141" selection-end-line="112" selection-end-column="141" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wpml-config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="674" max-vertical-offset="2210">
@@ -513,18 +499,92 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/single-agent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.1923075" vertical-offset="1743" max-vertical-offset="3366">
+          <caret line="112" column="134" selection-start-line="112" selection-start-column="134" selection-end-line="112" selection-end-column="134" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template-agent-listing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.1923075" vertical-offset="2015" max-vertical-offset="3281">
+          <caret line="128" column="138" selection-start-line="128" selection-start-column="138" selection-end-line="128" selection-end-column="138" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/template-parts/social-nav.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.76363635" vertical-offset="43" max-vertical-offset="1819">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        <state vertical-scroll-proportion="-4.072727" vertical-offset="337" max-vertical-offset="1819">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/property-details/property-map.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32923076" vertical-offset="1576" max-vertical-offset="1989">
-          <caret line="99" column="63" selection-start-line="99" selection-start-column="63" selection-end-line="99" selection-end-column="63" />
+        <state vertical-scroll-proportion="-16.26923" vertical-offset="1175" max-vertical-offset="2006">
+          <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.1960785" vertical-offset="34806" max-vertical-offset="45458">
+          <caret line="2057" column="4" selection-start-line="2057" selection-start-column="4" selection-end-line="2057" selection-end-column="4" />
+          <folding>
+            <marker date="1432409381145" expanded="true" signature="89433:89544" placeholder="SELECT * FRO..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template-property-grid-listing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.0" vertical-offset="0" max-vertical-offset="799">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template-parts/grid-listing-container.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="1292">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template-parts/modal-login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.33333334" vertical-offset="0" max-vertical-offset="1734">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.68" vertical-offset="18386" max-vertical-offset="18989">
+          <caret line="1109" column="7" selection-start-line="1109" selection-start-column="7" selection-end-line="1109" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/property-details/property-add-to-favorites.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6666667" vertical-offset="0" max-vertical-offset="697">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/property-details/property-contents.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.71319795" vertical-offset="552" max-vertical-offset="1649">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding />
         </state>
       </provider>

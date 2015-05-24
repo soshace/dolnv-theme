@@ -27,7 +27,7 @@ if($show_social == 'true')
             if(!empty( $sl_vkontakte )){
                 ?>
                 <li class="vkontakte">
-                    <a target="_blank" href="<?php echo $sl_vkontakte; ?>"><i class="fa fa-vkontakte fa-lg"></i></a>
+                    <a target="_blank" href="<?php echo $sl_vkontakte; ?>"><i class="fa fa-vk fa-lg"></i></a>
                 </li>
             <?php
             }

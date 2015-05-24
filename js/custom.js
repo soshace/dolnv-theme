@@ -1106,11 +1106,7 @@
             $('html').click(function() {
                 currencySwitcherList.slideUp();
             });
-
         }
-
-
-
     });
 
 })(jQuery);

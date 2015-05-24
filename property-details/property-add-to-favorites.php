@@ -27,7 +27,7 @@ if( $fav_button == "true" ) {
             <?php
             }
         } else {
-            ?><a href="#login-modal" data-toggle="modal"><i class="fa fa-star-o"></i>&nbsp;<?php _e('Add to Favorites','framework'); ?></a><?php
+            ?><a href="#" class="js-add-to-favorites"><i class="fa fa-star-o"></i>&nbsp;<?php _e('Add to Favorites','framework'); ?></a><?php
         }
         ?>
     </span>

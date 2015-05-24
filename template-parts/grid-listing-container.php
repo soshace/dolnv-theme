@@ -13,8 +13,6 @@
                         ?><h3 class="title-heading"><?php the_title(); ?></h3><?php
                     }
 
-                    // listing view type
-                    get_template_part( 'template-parts/listing-view-type' );
                     ?>
 
                     <div class="list-container clearfix">

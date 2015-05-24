@@ -47,9 +47,6 @@
         // property meta
         get_template_part('property-details/property-metas');
 
-        // Add to favorites
-        get_template_part('property-details/property-add-to-favorites');
-
         ?>
         <!-- Print link -->
         <span class="printer-icon"><a href="javascript:window.print()"><i class="fa fa-print"></i><?php _e('Print','framework'); ?></a></span>
