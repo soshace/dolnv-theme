@@ -2,15 +2,15 @@
 /* Featured Properties Query Arguments */
 $featured_properties_args = array(
     'post_type' => 'property',
-    'posts_per_page' => 12,
-    'meta_query' => array(
-        array(
-            'key' => 'REAL_HOMES_featured',
-            'value' => 1,
-            'compare' => '=',
-            'type'  => 'NUMERIC'
-        )
-    )
+    'posts_per_page' => 12
+//    'meta_query' => array(
+//        array(
+//            'key' => 'REAL_HOMES_featured',
+//            'value' => 1,
+//            'compare' => '=',
+//            'type'  => 'NUMERIC'
+//        )
+//    )
 );
 
 $featured_properties_query = new WP_Query( $featured_properties_args );

@@ -2492,7 +2492,7 @@ ul.featured-properties li p {
 ul.featured-properties li .price {
   font-size: 14px;
   font-weight: bold;
-  color: #4dc7ec;
+  color: #AD37C7;
 }
 
 #footer .widget ul.featured-properties {
@@ -2845,7 +2845,7 @@ p.wp-caption-text {
 }
 
 article h1 span, article h2 span, article h3 span, article h4 span, article .property-item h4 a span, .property-item h4 article a span, article h5 span, article h6 span {
-  color: #ec894d;
+    color: #AD37C7;
 }
 
 .common-list, .disc-list ul, .arrow-list ul, .small-arrow-list ul, .tick-list ul {
@@ -3334,7 +3334,7 @@ address {
 }
 #overview .property-item .price span {
   display: inline-block;
-  background-color: #4DC7EC;
+  background-color: #AD37C7;
   padding: 11px 10px 11px 14px;
   margin-right: -1px;
   color: #fff;
@@ -4165,7 +4165,7 @@ address {
   margin-bottom: 0;
 }
 .property-grid .property-item span {
-  color: #4dc7ec;
+  color: #AD37C7;
   font-weight: bold;
 }
 .property-grid .property-item .more-details .fa-caret-right {
