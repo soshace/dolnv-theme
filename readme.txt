@@ -6,3 +6,4 @@ In case of any theme specific question you can sing up on our support site and c
 
 For customisation you can consider using services like https://codeable.io/ or https://studio.envato.com/explore/wordpress-customization or http://werkpress.com/
 
+Network for professionals [Soshace](https://soshace.com)
